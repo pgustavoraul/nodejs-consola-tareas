@@ -1,6 +1,6 @@
-## Aplicación de comandos que gestiona tareas almacenadas en un archivo en formato json
+## Aplicación de comandos que gestiona tareas
 
-Es una aplicación de consola en node que usa los modulos yargs y colors.
+Es una aplicación de consola en node que usa los modulos yargs y colors que gestiona tareas en formato JSON almacenadas en un archivo 
 
 *Pasos para la instalación:*
 
